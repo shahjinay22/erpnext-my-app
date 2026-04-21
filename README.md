@@ -1,4 +1,5 @@
 # ERPNext Sales & Workflow Management System
+Developed and deployed a custom ERPNext solution for managing sales workflows, user access, and business operations.
 
 ## 📌 Overview
 
@@ -40,7 +41,7 @@ Note: Hosted on a trial environment, so availability may be temporary.
 <img width="1900" height="979" alt="image" src="https://github.com/user-attachments/assets/230897e8-af8a-4f5e-98d4-1ba806c462a8" />
 
 
-### DocTypes
+### Custom Sales Order workflow and DocType customization
 
 <img width="1882" height="1018" alt="image" src="https://github.com/user-attachments/assets/38236692-874e-4f5d-92c1-a50fde349f00" />
 
