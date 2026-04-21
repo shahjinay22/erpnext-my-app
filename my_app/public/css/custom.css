@@ -1,0 +1,18 @@
+/* Loading splash logo replace */
+#page-splash .app-logo,
+.page-loading .app-logo,
+.loading-logo,
+#page-splash img,
+#page-splash svg {
+    background-image: url('/assets/my_app/images/seslogo1.png') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    width: 90px !important;
+    height: 90px !important;
+}
+
+#page-splash img,
+#page-splash svg {
+    content: "" !important;
+}

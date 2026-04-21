@@ -5,7 +5,11 @@ app_description = "erpnext"
 app_email = "jinayshah2207@gmail.com"
 app_license = "mit"
 
-# Apps
+app_include_css = "/assets/my_app/css/custom.css"
+web_include_css = "/assets/my_app/css/custom.css"
+
+app_include_js = "/assets/my_app/js/custom.js"
+web_include_js = "/assets/my_app/js/custom.js"
 # ------------------
 
 # required_apps = []
