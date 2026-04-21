@@ -31,14 +31,13 @@ Note: Hosted on a trial environment, so availability may be temporary.
 
 ## 📷 Screenshots
 
-### User Management
-
-<img width="1907" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdc056b0-4e90-4b20-9d0d-4a798533cf62" />
-
-
-### Activity Logs
+### Dashboard / Workspace
 
 <img width="1891" height="1024" alt="image" src="https://github.com/user-attachments/assets/277e3e48-d842-47db-ab7a-cb6e263bbc8b" />
+
+### Activity Logs (Audit Trail)
+
+<img width="1900" height="979" alt="image" src="https://github.com/user-attachments/assets/230897e8-af8a-4f5e-98d4-1ba806c462a8" />
 
 
 ### DocTypes
