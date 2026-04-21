@@ -1,4 +1,4 @@
-# ERPNext Custom Application
+# ERPNext Sales & Workflow Management System
 
 ## 📌 Overview
 
