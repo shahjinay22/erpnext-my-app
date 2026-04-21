@@ -66,4 +66,4 @@ Only the custom application code is shared for portfolio purposes.
 ## 📄 License
 
 MIT License
-<img width="1643" height="997" alt="image" src="https://github.com/user-attachments/assets/1f89ccdc-8350-4cfa-bd2a-21b4958c1528" />
+
